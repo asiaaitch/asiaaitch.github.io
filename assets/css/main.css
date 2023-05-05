@@ -1597,6 +1597,18 @@ button,
     padding-top: 0; }
 
 /* Features */
+.features p {
+  -moz-align-items: center;
+  -webkit-align-items: center;
+  -ms-align-items: center;
+  align-items: center;
+  display: -moz-flex;
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+  margin: 0 0 3em 3em;
+  position: relative;
+  width: calc(50% - 3em); }
 .features {
   display: -moz-flex;
   display: -webkit-flex;
