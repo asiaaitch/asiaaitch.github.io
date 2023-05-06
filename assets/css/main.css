@@ -163,15 +163,15 @@ h6 {
 
 @media screen and (max-width: 1680px) {
   h1 {
-    font-size: 3.5em; } }
+    font-size: 2.7em; } }
 
 @media screen and (max-width: 980px) {
   h1 {
-    font-size: 3.25em; } }
+    font-size: 2em; } }
 
 @media screen and (max-width: 736px) {
   h1 {
-    font-size: 2em;
+    font-size: 1.7em;
     line-height: 1.4; }
   h2 {
     font-size: 1.5em; } }
@@ -1000,7 +1000,7 @@ header p {
 header.major > :last-child {
   border-bottom: solid 3px #efef1a;
   display: inline-block;
-  margin: 0 0 2em 0;
+  margin: 0 0 1em 0;
   padding: 0 0.75em 0.5em 0; }
 
 header.main > :last-child {
@@ -1597,18 +1597,6 @@ button,
     padding-top: 0; }
 
 /* Features */
-.features p {
-  -moz-align-items: center;
-  -webkit-align-items: center;
-  -ms-align-items: center;
-  align-items: center;
-  display: -moz-flex;
-  display: -webkit-flex;
-  display: -ms-flex;
-  display: flex;
-  margin: 0 0 3em 3em;
-  position: relative;
-  width: calc(100% - 3em); }
 .features {
   display: -moz-flex;
   display: -webkit-flex;
