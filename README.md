@@ -11,4 +11,5 @@ This portfolio includes a few of my projects and ways to get in contact with me.
 **Tech used:** JavaScript, HTML5, CSS3
 
 **WHAT I LEARNED**
+
 My learning was focused on making a simple UI and a smooth UX.
